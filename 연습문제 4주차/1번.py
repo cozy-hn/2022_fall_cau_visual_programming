@@ -1,0 +1,8 @@
+print("A = ? ", end="")
+A=int(input())
+print("B = ? ", end="")
+B=int(input())
+print("%d + %d = %d" %(A,B,A+B))
+print("%d - %d = %d" %(A,B,A-B))
+print("%d * %d = %d" %(A,B,A*B))
+print("%d / %d = %d" %(A,B,A/B))

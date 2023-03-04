@@ -1,0 +1,1 @@
+{"status":"0000","data":{"opening_price":"22892000","closing_price":"22916000","min_price":"22715000","max_price":"23095000","units_traded":"878.46678641","acc_trade_value":"20090132282.1207","prev_closing_price":"22889000","units_traded_24H":"2963.32705718","acc_trade_value_24H":"67730716332.1234","fluctate_24H":"393000","fluctate_rate_24H":"1.74","date":"1669245503994"}}
